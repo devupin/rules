@@ -13,6 +13,7 @@
 Currently, there are 52 channels with dedicated topics. Feel free to explore on your own! A small sampling:
 
 * `#ama` for any on-going AMAs (Ask Me Anything)
+* `#beginners` channel for the absolute beginners
 * `#general` is for stuff that isn't in any other channel, its our #overflow :)
 * `#mentorship` is for the D&H [Mentorship program](https://github.com/code-together/mentorship) and questions related to it
 * `#jobs` for job postings *ONLY*, discussions on posting themselves in #careers
